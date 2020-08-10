@@ -42,9 +42,6 @@
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white)
 
-<br />
-<br />
-
 [website]: https://www.wizamit.com
 [twitter]: https://twitter.com/Wiz_Amit
 [behance]: https://www.behance.net/wiz-amit
