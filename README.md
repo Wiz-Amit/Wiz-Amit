@@ -1,6 +1,6 @@
 ### Hi there, I'm Amit - aka [WizAmti][website] 👋
 
-- 🔭 I’m currently working on [Mealann](htts://mealann.com)
+- 🔭 I’m currently working on [Mealann](https://mealann.com)
 - 🌱 I’m currently learning Vue
 - 🥅 2020 Goals: Contribute to Open Source community
 - ⚡ Fun fact: I was a magician and I like to play Harmonica
