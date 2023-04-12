@@ -1,8 +1,7 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, nice to see you. I'm Amit - aka <a href="https://wizamit.com">WizAmit</a> 👋</h2>
 
-- 🔭 I’m currently working on [Mealann](https://mealann.com)
-- 🌱 I’m currently learning React
-- 🥅 2020 Goals: Contribute to Open Source community
+- 🌱 Learning every single JS framework out there 😅
+- 🥅 2023 Goals: Contribute more to Open Source community
 - ⚡ Fun fact: I was a magician and I like to play Harmonica
 
 ### Connect with me:
