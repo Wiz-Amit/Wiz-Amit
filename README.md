@@ -1,10 +1,14 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, nice to see you. I'm Amit - aka <a href="https://wizamit.com">WizAmit</a> 👋</h2>
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, nice to see you. I'm Amit - aka <a href="https://wizamit.com">WizAmit</a> 👋
 
 - **Leveled up from JS Padawan to Full-Stack Jedi Knight:** 4+ years of experience in PHP, JavaScript, Laravel, TypeScript, Tailwind CSS, HTML, and CSS, and 3 years conquering React JS.
 - ⚡ **Cloud Master**: Now wielding the power of AWS and Docker for efficient deployments and resource management. Like a magician pulling applications out of thin air!
 - **Database Whisperer:** Can speak fluently to both MySQL and NoSQL databases, ensuring your data is always happy and organized.
 
-### Connect with me:
+### Fun fact
+
+Still a magician at heart and a harmonica maestro in the making (though the neighbors might disagree ).
+
+### Connect with me
 
 [<img align="left" alt="wizAmit.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="wizAmit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -13,7 +17,7 @@
 
 <br />
 
-### Languages, Frameworks and Tools:
+### Languages, Frameworks and Tools
 
 ![Laravel](https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
